@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<dentists>
+  <dentist>
+    <name>Dr. John</name>
+    <availableDays>1,2,3</availableDays>
+  </dentist>
+  <dentist>
+    <name>Dr. Jane</name>
+    <availableDays>2,4,5</availableDays>
+  </dentist>
+  <dentist>
+    <name>Dr. Mark</name>
+    <availableDays>1,3,5</availableDays>
+  </dentist>
+</dentists>
+
